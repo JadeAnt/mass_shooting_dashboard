@@ -1,0 +1,268 @@
+,Incident Date,State,City Or County,Address,# Killed,# Injured,Latitude,Longitude
+0,"June 12, 2022",California,Los Angeles,3300 block of E 14th St,3,4,34.0171353,-118.2077596
+1,"June 12, 2022",Michigan,Roseville,27000 block of Kelly St,0,4,42.49541269,-82.92769583
+2,"June 12, 2022",Indiana,Gary,1700 Grant St,2,4,41.585845,-87.356727
+3,"June 12, 2022",Indiana,Indianapolis,9200 block of Sussex Ter,0,5,39.79904301,-86.00543041
+4,"June 12, 2022",Colorado,Denver,4600 block of Colorado Ave,2,4,39.6840847,-104.9338379
+5,"June 12, 2022",Texas,Austin,12600 block of Oro Valley Trail,1,3,30.4432282,-97.7646498
+6,"June 12, 2022",Louisiana,New Orleans,3940 Tulane Ave,0,4,29.967669,-90.10432
+7,"June 11, 2022",Michigan,Detroit,13500 block of Cloverlawn Ave,0,4,42.38637033,-83.15175926
+8,"June 11, 2022",Kentucky,Louisville,1101 River Rd,0,6,38.261789,-85.737112
+9,"June 11, 2022",Tennessee,Antioch,660 Bell Rd,2,2,36.0596743,-86.6400568
+10,"June 11, 2022",Illinois,Chicago,8600 block of S Damen Ave,1,4,41.737511,-87.673193
+11,"June 11, 2022",Georgia,Atlanta (College Park),6500 block of Woodford Rd,0,7,33.56833471,-84.50160417
+12,"June 10, 2022",Georgia,Decatur,2801 Candler Rd,1,3,33.70874,-84.274968
+13,"June 9, 2022",Maryland,Smithsburg,12912 Bikle Rd,3,3,39.6696967,-77.5628367
+14,"June 8, 2022",Arizona,Yuma,1500 block of S 4th Ave,0,4,32.7011083,-114.6250433
+15,"June 7, 2022",Virginia,Portsmouth,1628 Maple Ave,4,0,36.82611,-76.310904
+16,"June 7, 2022",Illinois,Chicago,1223 S Lawndale Ave,0,4,41.865438,-87.717486
+17,"June 7, 2022",Maryland,Baltimore,5500 block of Plainfield Ave,2,2,39.3359205,-76.5452696
+18,"June 7, 2022",Illinois,Chicago,13000 block of S Champlain Ave,0,4,41.65834735,-87.60479265
+19,"June 5, 2022",Tennessee,Chattanooga,2125 McCallie Ave,2,12,35.034722,-85.270667
+20,"June 5, 2022",Arizona,Mesa,1457 W Southern Ave,2,2,33.392517,-111.862325
+21,"June 5, 2022",Michigan,Grand Rapids,Pearl St NW and Ottawa Ave NW,1,3,42.9663779,-85.6701247
+22,"June 5, 2022",South Carolina,Andrews,County Line Rd,0,5,33.47588751,-79.55829859
+23,"June 5, 2022",Michigan,Saginaw,300 block of S 11th St,3,2,43.4285365,-83.92156115
+24,"June 4, 2022",Michigan,Ecorse,3800 block of W Jefferson Ave,0,4,42.257392,-83.139181
+25,"June 4, 2022",South Carolina,Summerton,4193 St Paul Rd,1,7,33.5784234,-80.3922661
+26,"June 4, 2022",Georgia,Macon,300 Block of Jones Ave,1,3,32.8431417,-83.6130967
+27,"June 4, 2022",Texas,El Paso (Socorro),10851 Thunder Rd,0,5,31.65848,-106.2523967
+28,"June 4, 2022",Pennsylvania,Philadelphia,200 block of South St,3,11,39.941136,-75.145826
+29,"June 4, 2022",Arizona,Phoenix,N 10th Ave and W Hatcher Rd,1,8,33.571252,-112.085357
+30,"June 4, 2022",New York,Hempstead,77 Terrace Ave,1,3,40.7102801,-73.630635
+31,"June 3, 2022",Nebraska,Omaha,2931 T St,1,3,41.20257382,-95.95703237
+32,"June 3, 2022",Virginia,Chester,10960 block of Stepney Rd,1,5,37.374947,-77.431602
+33,"June 2, 2022",Texas,Centerville,1696 TX-7 W,6,0,31.25495,-96.00644
+34,"June 1, 2022",Oklahoma,Tulsa,6161 S Yale Ave,5,0,36.070601,-95.918312
+35,"May 31, 2022",Texas,Waco,1900 block of Preston St,0,4,31.57984763,-97.13675585
+36,"May 30, 2022",Michigan,Benton Harbor,999 Pipestone St,1,6,42.0999942,-86.437643
+37,"May 30, 2022",South Carolina,Charleston,America St and South St,0,9,32.793193,-79.934612
+38,"May 30, 2022",Pennsylvania,Philadelphia,N Delaware Ave and E Tioga St,2,2,39.980445,-75.088946
+39,"May 29, 2022",Oklahoma,Taft,104 Elm St,1,7,35.9946902,-94.5684873
+40,"May 29, 2022",California,Merced,Cowden Ave,1,3,37.3276595,-120.533638
+41,"May 29, 2022",Illinois,Chicago,4400 block of W Walton St,1,4,41.89798669,-87.7371022
+42,"May 29, 2022",Texas,Houston,11654 Walnut Dale Ct,0,4,29.902828,-95.462343
+43,"May 29, 2022",Arizona,Phoenix,N 58th St and W Windsor Ave,1,5,33.477938,-111.957117
+44,"May 29, 2022",Nevada,Henderson,I-11 and Horizon Dr,0,7,36.011739,-114.990049
+45,"May 29, 2022",Illinois,Chicago,800 block of S Karlov Ave,0,5,41.87081,-87.728149
+46,"May 28, 2022",Tennessee,Chattanooga,100 block of Cherry St,0,6,35.05557368,-85.30863438
+47,"May 28, 2022",California,Fresno,2233 N 1st St,1,3,36.770838,-119.773944
+48,"May 28, 2022",Florida,Malabar,2500 block of Billie Ln,0,4,27.98331143,-80.58563987
+49,"May 28, 2022",Colorado,Colorado Springs,3800 block of E Pikes Pike Ave,1,3,38.83199101,-104.7566513
+50,"May 28, 2022",Tennessee,Memphis,Chelsea Ave and Peres Ave,0,4,35.1748054,-89.9808917
+51,"May 27, 2022",Alabama,Anniston,1204 Front St,0,6,33.633354,-85.830933
+52,"May 27, 2022",Michigan,Stanwood,10711 185th Ave,4,1,43.622096,-85.458464
+53,"May 25, 2022",Pennsylvania,Philadelphia,3500 block of Fairmount Ave,0,4,39.965983,-75.19369
+54,"May 24, 2022",Texas,Uvalde,715 Old Carrizo Rd,22,17,29.199648,-99.788344
+55,"May 23, 2022",South Carolina,North Charleston,7550 Dorchester Rd,0,5,32.903527,-80.078558
+56,"May 23, 2022",Ohio,Cleveland,1032 Hartley Rd,0,5,41.551122,-81.574912
+57,"May 21, 2022",Indiana,Goshen,1204 Rosemare Ct,2,3,41.5490325,-85.8117758
+58,"May 21, 2022",Washington,Tacoma,S Yakima Ave and S 56th St,0,4,47.206386,-122.443203
+59,"May 20, 2022",Florida,Kissimmee,2331 Old Dixie Hwy,1,3,28.312962,-81.402019
+60,"May 20, 2022",California,Highland,3606 Highland Ave,1,8,34.136238,-117.208048
+61,"May 20, 2022",Louisiana,New Orleans,St. Claude Ave and Forstall St,1,3,29.9659455,-90.0202095
+62,"May 19, 2022",Illinois,Chicago,800 block of N State St,2,7,40.18136,-88.7867498
+63,"May 18, 2022",Pennsylvania,Philadelphia,1500 block of Bouvier St,0,5,39.9768507,-75.1639352
+64,"May 17, 2022",California,Palo Alto (East Palo Alto),2500 block of Fordham St,1,3,37.473876,-122.136931
+65,"May 15, 2022",California,Laguna Woods,24301 El Toro Rd,1,5,33.609829,-117.733518
+66,"May 15, 2022",North Carolina,Winston Salem (Winston-salem),2000 block of 25th St,0,7,36.121841,-80.219511
+67,"May 15, 2022",North Carolina,Elizabeth City,901 S Martin Luther King Jr Dr,0,4,36.08843765,-80.22387663
+68,"May 15, 2022",Texas,Houston,8729 Airline Dr,2,3,29.88235426,-95.39069554
+69,"May 15, 2022",Texas,Amarillo,1003 N Fillmore St,1,4,35.224359,-101.832012
+70,"May 14, 2022",New York,Buffalo,1275 Jefferson Ave,10,3,42.909804,-78.852638
+71,"May 13, 2022",Wisconsin,Milwaukee,Water St and Juneau Ave,0,17,43.045795,-87.910985
+72,"May 12, 2022",Arkansas,Hot Springs National Park (Hot Springs),134 Convention Blvd,1,4,34.5087167,-93.0506433
+73,"May 11, 2022",Illinois,Chicago,6800 block of S Ashland Ave,0,4,41.769919,-87.664307
+74,"May 11, 2022",Indiana,Indianapolis,701 Canal Walk,0,5,39.77708051,-86.16478794
+75,"May 11, 2022",Missouri,Saint Louis,5000 block of N Kingshighway Blvd,1,3,38.686633,-90.244288
+76,"May 11, 2022",New Jersey,Paterson,36 Essex St,1,4,40.912544,-74.165582
+77,"May 10, 2022",Maryland,Baltimore,2800 block of Boarman Ave,0,5,39.338076,-76.667879
+78,"May 10, 2022",Illinois,Chicago,4800 block of S Ada St,1,4,41.806593,-87.659129
+79,"May 10, 2022",Illinois,Chicago,6400 block of S Richards Dr,0,6,41.7792168,-87.5805797
+80,"May 10, 2022",Pennsylvania,Philadelphia,Allegheny Ave and G St,0,4,39.996756,-75.115463
+81,"May 10, 2022",Maryland,Baltimore,700 block of N Rose St,1,3,39.29919,-76.581798
+82,"May 10, 2022",Texas,Brookshire,Purdy and 4th St,1,3,29.788039,-95.948893
+83,"May 9, 2022",Michigan,Detroit,12600 block of McCoy Cir,0,4,42.39114185,-82.97119508
+84,"May 9, 2022",Alabama,Tuscaloosa,4420 21st St,0,5,33.1961567,-87.5930917
+85,"May 8, 2022",Georgia,Clarkston,6500 block of Old Hampton Dr,3,3,33.79658851,-84.22780535
+86,"May 7, 2022",Kentucky,Lexington,1560 LaSalle Rd,2,3,38.077806,-84.480013
+87,"May 7, 2022",Texas,Garland,800 block of Magnolia Dr,2,2,32.9175632,-96.639868
+88,"May 7, 2022",Florida,Miami,NW 37th St and NW 32nd Ave,0,4,25.809598,-80.248396
+89,"May 6, 2022",Louisiana,New Orleans,4800 block of Alcee Fortier Blvd,2,4,30.03878876,-89.91266456
+90,"May 5, 2022",Washington,Sunnyside,613 S 6th St,0,5,46.322,-120.01401
+91,"May 3, 2022",Louisiana,Baton Rouge,2100 block of North 39th St,0,5,30.4674422,-91.1511677
+92,"May 3, 2022",Kansas,Cowley (county),,0,4,37.24049377,-96.98716736
+93,"May 3, 2022",Texas,Beaumont,3580 S Martin Luther King Jr Pkwy,0,5,30.051586,-94.081045
+94,"May 1, 2022",Louisiana,Lafayette,500 Jefferson St,0,12,30.225674,-92.018674
+95,"May 1, 2022",Ohio,Springfield,Clifton Ave and Rice St,1,4,39.909572,-83.807695
+96,"May 1, 2022",Florida,Tarpon Springs,Safford Ave and Boyer St,0,6,28.14411,-82.754558
+97,"May 1, 2022",South Carolina,North Charleston,US-52 and Ashley Phosphate Rd,1,3,32.936846,-80.0396
+98,"April 30, 2022",Georgia,Atlanta,445 Cleveland Ave SE,1,4,33.67955,-84.3761633
+99,"April 30, 2022",Mississippi,Jackson,1207 Mississippi Street,1,5,32.3016067,-90.1730333
+100,"April 29, 2022",Tennessee,Jackson,310 North Pkwy,2,2,35.645476,-88.853073
+101,"April 29, 2022",Louisiana,New Orleans,3201 Magazine St,0,6,29.924175,-90.086681
+102,"April 29, 2022",Mississippi,Laurel,Ferrell St and Poplar Dr,0,4,31.679106,-89.145671
+103,"April 28, 2022",Alabama,Bessemer,1800 block of Berkley Ave,1,3,33.39871583,-86.94877986
+104,"April 27, 2022",Illinois,Chicago,4400 block of W Jackson Blvd,0,4,41.877229,-87.735577
+105,"April 27, 2022",Louisiana,Opelousas,700 block of Mia St,2,3,30.54176151,-92.08970189
+106,"April 27, 2022",Mississippi,Biloxi,2688 Beach Blvd,4,0,30.390111,-88.9964
+107,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,29.4694087,-98.624915
+108,"April 27, 2022",Arizona,Phoenix,6719 W Thomas Rd,0,4,33.479163,-112.205711
+109,"April 25, 2022",Alabama,Birmingham,821 3rd Ave W,1,3,33.505062,-86.850263
+110,"April 24, 2022",South Carolina,Myrtle Beach,12th Ave N and Withers Alley,1,3,33.695,-78.877411
+111,"April 24, 2022",Indiana,Lafayette,2905 Westchester Ln W,2,4,40.3868905,-86.9153704
+112,"April 23, 2022",Illinois,Chicago,2000 block of W 51st St,2,2,41.8014421,-87.6747102
+113,"April 23, 2022",North Carolina,Rocky Mount,1171 Jefferies Rd,0,4,35.977674,-77.804195
+114,"April 23, 2022",Georgia,Atlanta,135 Andrew Young International Blvd NW,0,5,33.759879,-84.39183
+115,"April 23, 2022",California,San Bernardino,1036 W Highland Ave,1,4,34.136291,-117.306159
+116,"April 22, 2022",Virginia,Petersburg,200 block of Holly Hill Dr,1,5,37.20062364,-77.37341185
+117,"April 22, 2022",Ohio,Cincinnati,Kemper Ln and E McMillan St,0,4,39.125784,-84.487899
+118,"April 22, 2022",District of Columbia,Washington,2900 block of Van Ness St NW,1,4,38.942716,-77.059507
+119,"April 21, 2022",Arkansas,Mountain View,646 Northcutt Rd,4,0,35.757848,-91.9340406
+120,"April 20, 2022",Minnesota,Duluth,715 E 12th St,5,0,46.802248,-92.102257
+121,"April 17, 2022",Pennsylvania,Philadelphia,2800 block of Orkney St,0,4,39.9950171,-75.13910529
+122,"April 17, 2022",Oregon,Portland,16150 SE Stark St,1,3,45.518834,-122.496883
+123,"April 17, 2022",South Carolina,Furman,72 Ashley Circle Rd,0,9,32.690504,-81.189759
+124,"April 17, 2022",California,Sacramento,7200 block of Franklin Blvd,1,3,38.495595,-121.4597
+125,"April 17, 2022",Florida,Miami,15020 South River Dr,1,3,25.912219,-80.221778
+126,"April 17, 2022",Pennsylvania,Pittsburgh,900B Madison Ave,2,9,40.455917,-79.997242
+127,"April 17, 2022",Louisiana,Baldwin,Rosebud Rd and Baptiste St,0,5,29.833417,-91.555929
+128,"April 16, 2022",South Carolina,Columbia,100 Columbiana Cir,0,9,34.078735,-81.156999
+129,"April 16, 2022",Maryland,Baltimore,5300 block of Maple Ave,1,3,39.351249,-76.677672
+130,"April 16, 2022",Nevada,North Las Vegas,4900 block of Support St,0,4,36.24976256,-115.1795361
+131,"April 16, 2022",Texas,Daingerfield,FM 144 and Edwards Rd,1,6,33.063792,-94.806508
+132,"April 16, 2022",New York,Syracuse,300 block of S Clinton St,1,4,43.0480217,-76.1546983
+133,"April 15, 2022",California,Stockton,300 block of Coventry Dr,2,2,37.99628945,-121.3007874
+134,"April 12, 2022",New York,Brooklyn,36th St and 4th Ave,0,10,40.654283,-74.004354
+135,"April 12, 2022",New York,Bronx,2825 Olinville Ave,1,3,40.8672041,-73.8686155
+136,"April 10, 2022",Louisiana,Baton Rouge,2700 block of Lorraine St,0,4,30.4969779,-91.1628991
+137,"April 10, 2022",Iowa,Cedar Rapids,415 3rd St SE,2,10,41.976142,-91.664639
+138,"April 10, 2022",Illinois,Elgin,958 Congdon Ave,2,4,42.0572995,-88.2549903
+139,"April 10, 2022",California,Willowbrook,Blakley Ave and E 122nd Pl,2,5,33.9213116,-118.2473234
+140,"April 10, 2022",Indiana,Indianapolis,4270 W 38th St,1,5,39.82539,-86.233202
+141,"April 9, 2022",District of Columbia,Washington,O St SW and Half St SW,0,4,38.8729658,-77.0106508
+142,"April 9, 2022",Florida,Miami,6816 NW 15th Ave,0,4,25.836413,-80.223289
+143,"April 6, 2022",Pennsylvania,Philadelphia,Griscom St and Arrott St,1,4,40.01704,-75.084711
+144,"April 4, 2022",Kentucky,Covington,Russell St and W 16th St,0,4,39.071222,-84.51027
+145,"April 4, 2022",Connecticut,Hartford,Bedford St and Mather St,1,3,41.780092,-72.683763
+146,"April 3, 2022",New York,Buffalo,400 block of Genesee St,0,4,43.15002526,-77.63602816
+147,"April 3, 2022",California,San Francisco,670 Brunswick St,2,2,37.7095186,-122.4470292
+148,"April 3, 2022",Texas,Dallas,5050 Cleveland Rd,1,16,32.6399817,-96.7383262
+149,"April 3, 2022",California,Sacramento,J St and 10th St,6,12,38.5803175,-121.4934628
+150,"April 2, 2022",North Carolina,Shelby,1851 E Dixon Blvd,1,3,35.27021,-81.489566
+151,"April 2, 2022",Louisiana,Monroe,100 Sterlington Rd,1,5,32.522756,-92.0816668
+152,"April 2, 2022",Colorado,Colorado Springs,2400 block of Barkman Dr,0,4,38.79853756,-104.7475555
+153,"April 2, 2022",Louisiana,Shreveport,2025 Marshall St,1,3,32.501192,-93.737074
+154,"April 1, 2022",South Carolina,Walterboro,1900 Block of Logan Farm Rd,0,4,32.99427212,-80.72932243
+155,"March 26, 2022",California,Hollister,Rustic St and Roble St,2,3,36.861663,-121.398311
+156,"March 26, 2022",Ohio,Cleveland,1437 St Clair Ave NE,0,4,41.506572,-81.68582
+157,"March 25, 2022",Colorado,Colorado Springs,820 Citadel Dr E,2,2,38.844428,-104.761389
+158,"March 22, 2022",California,Stockton,1800 West Lane,1,3,37.975355,-121.280415
+159,"March 21, 2022",Connecticut,Waterbury,23 Scovill St,0,4,41.55402,-73.039474
+160,"March 21, 2022",Illinois,Chicago,1650 E 79th St,2,2,41.751712,-87.583758
+161,"March 20, 2022",Wisconsin,Milwaukee,2822 W Melvina St,0,4,43.087768,-87.94905
+162,"March 20, 2022",Texas,Houston,2955 S Sam Houston Pkwy E,1,3,29.599034,-95.381371
+163,"March 20, 2022",Texas,Austin,E 6th St and Neches St,0,4,30.266792,-97.738272
+164,"March 19, 2022",Virginia,Norfolk,320 Granby St,3,2,36.850263,-76.289821
+165,"March 19, 2022",North Carolina,Fayetteville,1707 Owen Dr,3,3,35.029409,-78.927906
+166,"March 19, 2022",Arkansas,Dumas,611 Highway 65 S,1,26,33.879182,-91.480939
+167,"March 19, 2022",Virginia,Madison Heights,351 Old Wright Shop Rd,1,4,37.432173,-79.0972908
+168,"March 19, 2022",Texas,Dallas,5214 Botham Jean Blvd,1,9,32.743918,-96.75934
+169,"March 18, 2022",Texas,Fort Worth,1600 block of NW Loraine St,1,3,32.796785,-97.367464
+170,"March 18, 2022",Louisiana,New Iberia,200 block of C V Jackson Dr,0,5,30.0015263,-91.82739403
+171,"March 17, 2022",Michigan,Lansing,2200 block of E Michigan Ave,0,4,42.73338,-84.519857
+172,"March 17, 2022",Illinois,Chicago,4100 block of W Monroe St,0,4,41.8797774,-87.72949087
+173,"March 17, 2022",Florida,Fort Lauderdale,1300 W Broward Blvd,2,2,26.121436,-80.15872
+174,"March 16, 2022",New Jersey,Irvington,800 block of 18th Ave,1,3,40.73687516,-74.22017541
+175,"March 16, 2022",New Jersey,Irvington,862 18th Ave,1,3,40.737925,-74.2228667
+176,"March 15, 2022",Alabama,Ozark,1001 US Hwy 231,0,5,31.448818,-85.658088
+177,"March 14, 2022",Pennsylvania,Reading,1300 block of Meade St,1,3,40.31493145,-75.94965688
+178,"March 13, 2022",Illinois,Chicago,7902 S Exchange Ave,0,7,41.751793,-87.55336
+179,"March 13, 2022",New York,Rochester,471 State St,2,2,43.1629017,-77.621745
+180,"March 13, 2022",South Carolina,Columbia,810 Pulaski St,1,4,33.9932778,-81.0402258
+181,"March 12, 2022",Maryland,Baltimore,Gwynn Oak Ave and Liberty Heights Ave,3,1,39.331344,-76.695616
+182,"March 12, 2022",Alabama,Autaugaville,200 block of N Pickett St,1,3,32.43461924,-86.653818
+183,"March 11, 2022",Ohio,Columbus,1644 E Dublin-Granville Rd,2,2,40.088372,-82.974167
+184,"March 9, 2022",Colorado,Aurora,3300 N Ouray St,1,4,39.765473,-104.793024
+185,"March 8, 2022",Florida,Jacksonville,Duval Station Rd and Starratt Rd,1,4,30.4837195,-81.6041994
+186,"March 7, 2022",Tennessee,Knoxville,5800 block of Primus Rd,0,4,36.0147299,-83.98226184
+187,"March 6, 2022",Minnesota,Minneapolis,2720 Blaisdell Ave,1,3,44.9529987,-93.2800243
+188,"March 6, 2022",Pennsylvania,Hazleton,182 S  Wyoming St,1,4,40.9494507,-75.9764572
+189,"March 6, 2022",Kentucky,Louisville,601 E Jefferson St,0,4,38.252477,-85.742066
+190,"March 6, 2022",Texas,Lubbock,1800 block of Parkway Dr,0,4,33.59371743,-101.8155872
+191,"March 6, 2022",Louisiana,Monroe,1051 Martin Luther King Junior Drive,0,4,32.503921,-92.080986
+192,"March 6, 2022",South Carolina,Chester,Powell Dr and Harvey Neely Rd,2,3,34.810287,-81.131584
+193,"March 5, 2022",Arizona,Glendale,4810 W Glendale Ave,1,3,33.538737,-112.162669
+194,"March 5, 2022",Georgia,Atlanta,I-75 and Langford Pkwy,0,4,33.91169465,-84.47919665
+195,"March 3, 2022",Nevada,Las Vegas,4055 S University Center Dr,1,6,36.115797,-115.147898
+196,"March 2, 2022",Maryland,Baltimore,Walbrook Ave and N Dukeland St,1,3,39.3102934,-76.6640771
+197,"February 28, 2022",California,Sacramento,2041 Wyda Way,5,0,38.600372,-121.419006
+198,"February 27, 2022",Louisiana,Alexandria,3700 block of 3rd St,0,4,31.29459138,-92.42135584
+199,"February 26, 2022",South Carolina,North Charleston,2622 S Allen Dr,1,3,32.8507092,-79.985934
+200,"February 26, 2022",Nevada,Las Vegas,953 E Sahara Ave,1,14,36.143408,-115.143667
+201,"February 26, 2022",Louisiana,Bogalusa,E 4th St and Martin Luther King Jr Dr,0,10,30.7752,-89.85335
+202,"February 25, 2022",Louisiana,Baton Rouge,6401 Bluebonnet Blvd,2,2,30.388281,-91.087379
+203,"February 24, 2022",Texas,San Antonio,90 Lanark Dr,0,4,29.50325564,-98.41503134
+204,"February 21, 2022",Minnesota,Saint Paul,488 Humboldt Ave,1,3,44.9311886,-93.0848412
+205,"February 20, 2022",Nebraska,Omaha,1817 N 33rd St,0,4,41.275899,-95.961166
+206,"February 20, 2022",Iowa,Des Moines,100 block of Water St,0,4,41.58406,-93.617963
+207,"February 20, 2022",Oregon,Portland,SE Foster Rd and 128th Ave,1,3,45.476683,-122.532117
+208,"February 20, 2022",Mississippi,Mccomb,Minnesota Ave and 6th St,1,3,31.2446263,-90.4582655
+209,"February 19, 2022",North Carolina,Durham,1400 E Cornwallis Rd,2,2,35.9429443,-78.9031195
+210,"February 19, 2022",Oregon,Portland,NE 55th Ave and NE Hassalo St,1,6,45.530236,-122.607519
+211,"February 19, 2022",Missouri,Charleston,106 S Franklin St,2,14,36.922991,-89.3513829
+212,"February 19, 2022",California,Turlock,142 S 1st St,0,7,37.493151,-120.845987
+213,"February 18, 2022",Maryland,Temple Hills (Marlow Heights),4200 block of 28th Ave,2,2,38.83248992,-76.9459926
+214,"February 17, 2022",Pennsylvania,Philadelphia,164 W Chelten Ave,0,4,40.032243,-75.178158
+215,"February 17, 2022",Texas,Houston,3000 Blodgett St,0,5,29.721712,-95.367263
+216,"February 16, 2022",Florida,Miami,NW 99th St and NW 21st Ave,1,3,25.864668,-80.23217
+217,"February 15, 2022",Illinois,Joliet,700 block of Francis St,1,3,41.541339,-88.064603
+218,"February 13, 2022",Wisconsin,Racine,7th St and Park Ave,1,5,42.725972,-87.786031
+219,"February 12, 2022",California,West Hollywood,401 N La Cienega Blvd,0,4,34.078748,-118.376782
+220,"February 12, 2022",Tennessee,Murfreesboro,1644 Middle Tennessee Blvd,1,4,35.8317673,-86.3749331
+221,"February 12, 2022",Arkansas,Little Rock,200 block of E 7th St,1,3,34.74200007,-92.26982151
+222,"February 11, 2022",Missouri,Springfield,E Kearney St and N Prospect Ave,0,4,37.240609,-93.272315
+223,"February 11, 2022",Arizona,Phoenix,5405 W Warner St,2,9,33.41389,-112.175598
+224,"February 6, 2022",Illinois,Romeoville,735 N Center Blvd,0,5,41.654814,-88.120978
+225,"February 6, 2022",California,Fresno,S Clara Ave and E Lorena Ave,2,2,36.719634,-119.795338
+226,"February 6, 2022",North Carolina,Wilmington,200 block of North 31st St,0,4,34.24242903,-77.90539924
+227,"February 6, 2022",Florida,Fort Lauderdale,5280 FL-7,0,4,26.05957586,-80.20762704
+228,"February 5, 2022",New Mexico,Las Cruces,1900 block of Gladys Dr,1,3,32.29348952,-106.746855
+229,"February 5, 2022",Texas,Corsicana,2919 W 2nd Ave,6,2,32.082331,-96.49666
+230,"February 4, 2022",Virginia,Blacksburg,109 N Main St,1,4,37.22942,-80.414253
+231,"February 2, 2022",California,Oroville,410 Oro Dam Blvd E,1,4,39.498566,-121.571111
+232,"February 1, 2022",Wisconsin,Milwaukee,1801 W Olive St,0,5,43.093455,-87.932969
+233,"January 31, 2022",North Carolina,Raleigh,3120 New Bern Ave,1,3,35.7891388,-78.586379
+234,"January 30, 2022",Florida,Winter Haven,Buckeye Loop Rd and MLK Blvd NE,1,4,28.02445775,-81.6938774
+235,"January 30, 2022",Georgia,Augusta,2623 Deans Bridge Rd,1,3,33.440502,-82.022664
+236,"January 29, 2022",Missouri,Saint Louis,4900 block of Cote Brilliante,3,1,38.66436535,-90.25714884
+237,"January 29, 2022",Georgia,Atlanta,899 Martin Luther King Jr Dr NW,1,3,33.754955,-84.417065
+238,"January 29, 2022",California,Bakersfield,10612 Rosedale Hwy,0,4,35.383951,-119.120914
+239,"January 27, 2022",District of Columbia,Washington,4400 Connecticut Ave,1,4,38.946959,-77.065486
+240,"January 23, 2022",California,Inglewood,1300 block of North Park Ave,4,1,33.97945,-118.345208
+241,"January 23, 2022",Wisconsin,Milwaukee,2505 N 21st St,6,0,43.064373,-87.939139
+242,"January 19, 2022",Maryland,Baltimore,E Monument St and N Montford Ave,3,1,39.298792,-76.583711
+243,"January 19, 2022",Louisiana,New Orleans,7800 block of Keats St,0,4,30.031998,-90.02113
+244,"January 18, 2022",Florida,Miami,10702 NW 7th Ave,1,4,25.872993,-80.210393
+245,"January 17, 2022",Texas,San Antonio,400 block of Spriggsdale Ave,1,4,29.41947818,-98.43962723
+246,"January 16, 2022",Georgia,Savannah,1100 Graydon St,1,3,32.06265988,-81.08003475
+247,"January 15, 2022",Tennessee,Knoxville,2700 block of Tarleton Ave,0,4,35.985158,-83.888026
+248,"January 15, 2022",Georgia,Brunswick,2717 Glynn Ave,1,5,31.168518,-81.475876
+249,"January 14, 2022",Oregon,Eugene,219 W 8th Ave,0,6,44.05103344,-123.096207
+250,"January 13, 2022",New York,Brooklyn,1014 E 92nd St,1,3,40.644131,-73.908471
+251,"January 12, 2022",Illinois,Chicago,S King Dr and E 63rd St,0,4,41.7798275,-87.6156383
+252,"January 9, 2022",California,Fresno,724 E Olive Ave,0,4,36.757439,-119.802272
+253,"January 9, 2022",California,Los Angeles,W 35th St and S Hill St,2,4,34.018285,-118.275764
+254,"January 9, 2022",Alabama,Montgomery,3020 Atlanta Hwy,1,6,32.382598,-86.26624
+255,"January 9, 2022",Colorado,Colorado Springs,1960 Chelton Rd,2,3,38.803767,-104.7520077
+256,"January 8, 2022",Texas,Houston,7136 Clarewood Dr,1,3,29.709462,-95.510871
+257,"January 4, 2022",Mississippi,Jackson,3207 W Capitol St,1,3,32.321826,-90.2274063
+258,"January 2, 2022",Texas,Corsicana,1100 block of S 29th St,2,2,32.075941,-96.478432
+259,"January 2, 2022",Texas,San Antonio,427 Montrose,2,2,29.370153,-98.461673
+260,"January 1, 2022",Missouri,Columbia,122 S 9th St,0,4,38.949829,-92.327366
+261,"January 1, 2022",Pennsylvania,Philadelphia,1600 block of Cecil B Moore Ave,1,4,39.978916,-75.161404
+262,"January 1, 2022",Wisconsin,Kenosha,1708 52nd St,1,3,42.588288,-87.830403
+263,"January 1, 2022",Illinois,Peoria,2000 block of SW Adams St,2,2,40.677127,-89.611213
+264,"January 1, 2022",South Carolina,Dillon,3261 Hwy 9,0,5,34.383823,-79.263373
+265,"January 1, 2022",Indiana,South Bend,1500 block of S Miami St,0,4,41.65885863,-86.23492295
+266,"January 1, 2022",Colorado,Denver,1919 Blake St,2,2,39.753915,-104.995464

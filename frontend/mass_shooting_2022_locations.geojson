@@ -1,0 +1,4277 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2077596,34.0171353 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "Incident Date":"June 12, 2022",
+    "State":"California",
+    "City Or County":"Los Angeles",
+    "Address":"3300 block of E 14th St",
+    "# Killed":3,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.92769583,42.49541269 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "Incident Date":"June 12, 2022",
+    "State":"Michigan",
+    "City Or County":"Roseville",
+    "Address":"27000 block of Kelly St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.356727,41.585845 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "Incident Date":"June 12, 2022",
+    "State":"Indiana",
+    "City Or County":"Gary",
+    "Address":"1700 Grant St",
+    "# Killed":2,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.00543041,39.79904301 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "Incident Date":"June 12, 2022",
+    "State":"Indiana",
+    "City Or County":"Indianapolis",
+    "Address":"9200 block of Sussex Ter",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9338379,39.6840847 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "Incident Date":"June 12, 2022",
+    "State":"Colorado",
+    "City Or County":"Denver",
+    "Address":"4600 block of Colorado Ave",
+    "# Killed":2,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7646498,30.4432282 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "Incident Date":"June 12, 2022",
+    "State":"Texas",
+    "City Or County":"Austin",
+    "Address":"12600 block of Oro Valley Trail",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.10432,29.967669 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "Incident Date":"June 12, 2022",
+    "State":"Louisiana",
+    "City Or County":"New Orleans",
+    "Address":"3940 Tulane Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.15175926,42.38637033 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "Incident Date":"June 11, 2022",
+    "State":"Michigan",
+    "City Or County":"Detroit",
+    "Address":"13500 block of Cloverlawn Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.737112,38.261789 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "Incident Date":"June 11, 2022",
+    "State":"Kentucky",
+    "City Or County":"Louisville",
+    "Address":"1101 River Rd",
+    "# Killed":0,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6400568,36.0596743 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "Incident Date":"June 11, 2022",
+    "State":"Tennessee",
+    "City Or County":"Antioch",
+    "Address":"660 Bell Rd",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.673193,41.737511 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "Incident Date":"June 11, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"8600 block of S Damen Ave",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.50160417,33.56833471 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "Incident Date":"June 11, 2022",
+    "State":"Georgia",
+    "City Or County":"Atlanta (College Park)",
+    "Address":"6500 block of Woodford Rd",
+    "# Killed":0,
+    "# Injured":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.274968,33.70874 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "Incident Date":"June 10, 2022",
+    "State":"Georgia",
+    "City Or County":"Decatur",
+    "Address":"2801 Candler Rd",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5628367,39.6696967 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "Incident Date":"June 9, 2022",
+    "State":"Maryland",
+    "City Or County":"Smithsburg",
+    "Address":"12912 Bikle Rd",
+    "# Killed":3,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.6250433,32.7011083 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "Incident Date":"June 8, 2022",
+    "State":"Arizona",
+    "City Or County":"Yuma",
+    "Address":"1500 block of S 4th Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.310904,36.82611 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "Incident Date":"June 7, 2022",
+    "State":"Virginia",
+    "City Or County":"Portsmouth",
+    "Address":"1628 Maple Ave",
+    "# Killed":4,
+    "# Injured":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.717486,41.865438 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "Incident Date":"June 7, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"1223 S Lawndale Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5452696,39.3359205 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "Incident Date":"June 7, 2022",
+    "State":"Maryland",
+    "City Or County":"Baltimore",
+    "Address":"5500 block of Plainfield Ave",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.60479265,41.65834735 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "Incident Date":"June 7, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"13000 block of S Champlain Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.270667,35.034722 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "Incident Date":"June 5, 2022",
+    "State":"Tennessee",
+    "City Or County":"Chattanooga",
+    "Address":"2125 McCallie Ave",
+    "# Killed":2,
+    "# Injured":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.862325,33.392517 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "Incident Date":"June 5, 2022",
+    "State":"Arizona",
+    "City Or County":"Mesa",
+    "Address":"1457 W Southern Ave",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6701247,42.9663779 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "Incident Date":"June 5, 2022",
+    "State":"Michigan",
+    "City Or County":"Grand Rapids",
+    "Address":"Pearl St NW and Ottawa Ave NW",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.55829859,33.47588751 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "Incident Date":"June 5, 2022",
+    "State":"South Carolina",
+    "City Or County":"Andrews",
+    "Address":"County Line Rd",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.92156115,43.4285365 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "Incident Date":"June 5, 2022",
+    "State":"Michigan",
+    "City Or County":"Saginaw",
+    "Address":"300 block of S 11th St",
+    "# Killed":3,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.139181,42.257392 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "Incident Date":"June 4, 2022",
+    "State":"Michigan",
+    "City Or County":"Ecorse",
+    "Address":"3800 block of W Jefferson Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3922661,33.5784234 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "Incident Date":"June 4, 2022",
+    "State":"South Carolina",
+    "City Or County":"Summerton",
+    "Address":"4193 St Paul Rd",
+    "# Killed":1,
+    "# Injured":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6130967,32.8431417 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "Incident Date":"June 4, 2022",
+    "State":"Georgia",
+    "City Or County":"Macon",
+    "Address":"300 Block of Jones Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2523967,31.65848 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "Incident Date":"June 4, 2022",
+    "State":"Texas",
+    "City Or County":"El Paso (Socorro)",
+    "Address":"10851 Thunder Rd",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.145826,39.941136 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "Incident Date":"June 4, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Philadelphia",
+    "Address":"200 block of South St",
+    "# Killed":3,
+    "# Injured":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.085357,33.571252 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "Incident Date":"June 4, 2022",
+    "State":"Arizona",
+    "City Or County":"Phoenix",
+    "Address":"N 10th Ave and W Hatcher Rd",
+    "# Killed":1,
+    "# Injured":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.630635,40.7102801 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "Incident Date":"June 4, 2022",
+    "State":"New York",
+    "City Or County":"Hempstead",
+    "Address":"77 Terrace Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.95703237,41.20257382 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "Incident Date":"June 3, 2022",
+    "State":"Nebraska",
+    "City Or County":"Omaha",
+    "Address":"2931 T St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.431602,37.374947 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "Incident Date":"June 3, 2022",
+    "State":"Virginia",
+    "City Or County":"Chester",
+    "Address":"10960 block of Stepney Rd",
+    "# Killed":1,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.00644,31.25495 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "Incident Date":"June 2, 2022",
+    "State":"Texas",
+    "City Or County":"Centerville",
+    "Address":"1696 TX-7 W",
+    "# Killed":6,
+    "# Injured":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.918312,36.070601 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "Incident Date":"June 1, 2022",
+    "State":"Oklahoma",
+    "City Or County":"Tulsa",
+    "Address":"6161 S Yale Ave",
+    "# Killed":5,
+    "# Injured":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.13675585,31.57984763 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "Incident Date":"May 31, 2022",
+    "State":"Texas",
+    "City Or County":"Waco",
+    "Address":"1900 block of Preston St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.437643,42.0999942 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "Incident Date":"May 30, 2022",
+    "State":"Michigan",
+    "City Or County":"Benton Harbor",
+    "Address":"999 Pipestone St",
+    "# Killed":1,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.934612,32.793193 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "Incident Date":"May 30, 2022",
+    "State":"South Carolina",
+    "City Or County":"Charleston",
+    "Address":"America St and South St",
+    "# Killed":0,
+    "# Injured":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.088946,39.980445 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "Incident Date":"May 30, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Philadelphia",
+    "Address":"N Delaware Ave and E Tioga St",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.5684873,35.9946902 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "Incident Date":"May 29, 2022",
+    "State":"Oklahoma",
+    "City Or County":"Taft",
+    "Address":"104 Elm St",
+    "# Killed":1,
+    "# Injured":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.533638,37.3276595 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "Incident Date":"May 29, 2022",
+    "State":"California",
+    "City Or County":"Merced",
+    "Address":"Cowden Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7371022,41.89798669 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "Incident Date":"May 29, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"4400 block of W Walton St",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.462343,29.902828 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "Incident Date":"May 29, 2022",
+    "State":"Texas",
+    "City Or County":"Houston",
+    "Address":"11654 Walnut Dale Ct",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.957117,33.477938 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "Incident Date":"May 29, 2022",
+    "State":"Arizona",
+    "City Or County":"Phoenix",
+    "Address":"N 58th St and W Windsor Ave",
+    "# Killed":1,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.990049,36.011739 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "Incident Date":"May 29, 2022",
+    "State":"Nevada",
+    "City Or County":"Henderson",
+    "Address":"I-11 and Horizon Dr",
+    "# Killed":0,
+    "# Injured":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.728149,41.87081 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "Incident Date":"May 29, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"800 block of S Karlov Ave",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.30863438,35.05557368 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "Incident Date":"May 28, 2022",
+    "State":"Tennessee",
+    "City Or County":"Chattanooga",
+    "Address":"100 block of Cherry St",
+    "# Killed":0,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.773944,36.770838 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "Incident Date":"May 28, 2022",
+    "State":"California",
+    "City Or County":"Fresno",
+    "Address":"2233 N 1st St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.58563987,27.98331143 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "Incident Date":"May 28, 2022",
+    "State":"Florida",
+    "City Or County":"Malabar",
+    "Address":"2500 block of Billie Ln",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.7566513,38.83199101 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "Incident Date":"May 28, 2022",
+    "State":"Colorado",
+    "City Or County":"Colorado Springs",
+    "Address":"3800 block of E Pikes Pike Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.9808917,35.1748054 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "Incident Date":"May 28, 2022",
+    "State":"Tennessee",
+    "City Or County":"Memphis",
+    "Address":"Chelsea Ave and Peres Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.830933,33.633354 ]
+    },
+    "properties": {
+    "FIELD1":51,
+    "Incident Date":"May 27, 2022",
+    "State":"Alabama",
+    "City Or County":"Anniston",
+    "Address":"1204 Front St",
+    "# Killed":0,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.458464,43.622096 ]
+    },
+    "properties": {
+    "FIELD1":52,
+    "Incident Date":"May 27, 2022",
+    "State":"Michigan",
+    "City Or County":"Stanwood",
+    "Address":"10711 185th Ave",
+    "# Killed":4,
+    "# Injured":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.19369,39.965983 ]
+    },
+    "properties": {
+    "FIELD1":53,
+    "Incident Date":"May 25, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Philadelphia",
+    "Address":"3500 block of Fairmount Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.788344,29.199648 ]
+    },
+    "properties": {
+    "FIELD1":54,
+    "Incident Date":"May 24, 2022",
+    "State":"Texas",
+    "City Or County":"Uvalde",
+    "Address":"715 Old Carrizo Rd",
+    "# Killed":22,
+    "# Injured":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.078558,32.903527 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "Incident Date":"May 23, 2022",
+    "State":"South Carolina",
+    "City Or County":"North Charleston",
+    "Address":"7550 Dorchester Rd",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.574912,41.551122 ]
+    },
+    "properties": {
+    "FIELD1":56,
+    "Incident Date":"May 23, 2022",
+    "State":"Ohio",
+    "City Or County":"Cleveland",
+    "Address":"1032 Hartley Rd",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.8117758,41.5490325 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "Incident Date":"May 21, 2022",
+    "State":"Indiana",
+    "City Or County":"Goshen",
+    "Address":"1204 Rosemare Ct",
+    "# Killed":2,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.443203,47.206386 ]
+    },
+    "properties": {
+    "FIELD1":58,
+    "Incident Date":"May 21, 2022",
+    "State":"Washington",
+    "City Or County":"Tacoma",
+    "Address":"S Yakima Ave and S 56th St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.402019,28.312962 ]
+    },
+    "properties": {
+    "FIELD1":59,
+    "Incident Date":"May 20, 2022",
+    "State":"Florida",
+    "City Or County":"Kissimmee",
+    "Address":"2331 Old Dixie Hwy",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.208048,34.136238 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "Incident Date":"May 20, 2022",
+    "State":"California",
+    "City Or County":"Highland",
+    "Address":"3606 Highland Ave",
+    "# Killed":1,
+    "# Injured":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0202095,29.9659455 ]
+    },
+    "properties": {
+    "FIELD1":61,
+    "Incident Date":"May 20, 2022",
+    "State":"Louisiana",
+    "City Or County":"New Orleans",
+    "Address":"St. Claude Ave and Forstall St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.7867498,40.18136 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "Incident Date":"May 19, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"800 block of N State St",
+    "# Killed":2,
+    "# Injured":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1639352,39.9768507 ]
+    },
+    "properties": {
+    "FIELD1":63,
+    "Incident Date":"May 18, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Philadelphia",
+    "Address":"1500 block of Bouvier St",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.136931,37.473876 ]
+    },
+    "properties": {
+    "FIELD1":64,
+    "Incident Date":"May 17, 2022",
+    "State":"California",
+    "City Or County":"Palo Alto (East Palo Alto)",
+    "Address":"2500 block of Fordham St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.733518,33.609829 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "Incident Date":"May 15, 2022",
+    "State":"California",
+    "City Or County":"Laguna Woods",
+    "Address":"24301 El Toro Rd",
+    "# Killed":1,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.219511,36.121841 ]
+    },
+    "properties": {
+    "FIELD1":66,
+    "Incident Date":"May 15, 2022",
+    "State":"North Carolina",
+    "City Or County":"Winston Salem (Winston-salem)",
+    "Address":"2000 block of 25th St",
+    "# Killed":0,
+    "# Injured":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.22387663,36.08843765 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "Incident Date":"May 15, 2022",
+    "State":"North Carolina",
+    "City Or County":"Elizabeth City",
+    "Address":"901 S Martin Luther King Jr Dr",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.39069554,29.88235426 ]
+    },
+    "properties": {
+    "FIELD1":68,
+    "Incident Date":"May 15, 2022",
+    "State":"Texas",
+    "City Or County":"Houston",
+    "Address":"8729 Airline Dr",
+    "# Killed":2,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.832012,35.224359 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "Incident Date":"May 15, 2022",
+    "State":"Texas",
+    "City Or County":"Amarillo",
+    "Address":"1003 N Fillmore St",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.852638,42.909804 ]
+    },
+    "properties": {
+    "FIELD1":70,
+    "Incident Date":"May 14, 2022",
+    "State":"New York",
+    "City Or County":"Buffalo",
+    "Address":"1275 Jefferson Ave",
+    "# Killed":10,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.910985,43.045795 ]
+    },
+    "properties": {
+    "FIELD1":71,
+    "Incident Date":"May 13, 2022",
+    "State":"Wisconsin",
+    "City Or County":"Milwaukee",
+    "Address":"Water St and Juneau Ave",
+    "# Killed":0,
+    "# Injured":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0506433,34.5087167 ]
+    },
+    "properties": {
+    "FIELD1":72,
+    "Incident Date":"May 12, 2022",
+    "State":"Arkansas",
+    "City Or County":"Hot Springs National Park (Hot Springs)",
+    "Address":"134 Convention Blvd",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.664307,41.769919 ]
+    },
+    "properties": {
+    "FIELD1":73,
+    "Incident Date":"May 11, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"6800 block of S Ashland Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.16478794,39.77708051 ]
+    },
+    "properties": {
+    "FIELD1":74,
+    "Incident Date":"May 11, 2022",
+    "State":"Indiana",
+    "City Or County":"Indianapolis",
+    "Address":"701 Canal Walk",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.244288,38.686633 ]
+    },
+    "properties": {
+    "FIELD1":75,
+    "Incident Date":"May 11, 2022",
+    "State":"Missouri",
+    "City Or County":"Saint Louis",
+    "Address":"5000 block of N Kingshighway Blvd",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.165582,40.912544 ]
+    },
+    "properties": {
+    "FIELD1":76,
+    "Incident Date":"May 11, 2022",
+    "State":"New Jersey",
+    "City Or County":"Paterson",
+    "Address":"36 Essex St",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.667879,39.338076 ]
+    },
+    "properties": {
+    "FIELD1":77,
+    "Incident Date":"May 10, 2022",
+    "State":"Maryland",
+    "City Or County":"Baltimore",
+    "Address":"2800 block of Boarman Ave",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.659129,41.806593 ]
+    },
+    "properties": {
+    "FIELD1":78,
+    "Incident Date":"May 10, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"4800 block of S Ada St",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.5805797,41.7792168 ]
+    },
+    "properties": {
+    "FIELD1":79,
+    "Incident Date":"May 10, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"6400 block of S Richards Dr",
+    "# Killed":0,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.115463,39.996756 ]
+    },
+    "properties": {
+    "FIELD1":80,
+    "Incident Date":"May 10, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Philadelphia",
+    "Address":"Allegheny Ave and G St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.581798,39.29919 ]
+    },
+    "properties": {
+    "FIELD1":81,
+    "Incident Date":"May 10, 2022",
+    "State":"Maryland",
+    "City Or County":"Baltimore",
+    "Address":"700 block of N Rose St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.948893,29.788039 ]
+    },
+    "properties": {
+    "FIELD1":82,
+    "Incident Date":"May 10, 2022",
+    "State":"Texas",
+    "City Or County":"Brookshire",
+    "Address":"Purdy and 4th St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.97119508,42.39114185 ]
+    },
+    "properties": {
+    "FIELD1":83,
+    "Incident Date":"May 9, 2022",
+    "State":"Michigan",
+    "City Or County":"Detroit",
+    "Address":"12600 block of McCoy Cir",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.5930917,33.1961567 ]
+    },
+    "properties": {
+    "FIELD1":84,
+    "Incident Date":"May 9, 2022",
+    "State":"Alabama",
+    "City Or County":"Tuscaloosa",
+    "Address":"4420 21st St",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.22780535,33.79658851 ]
+    },
+    "properties": {
+    "FIELD1":85,
+    "Incident Date":"May 8, 2022",
+    "State":"Georgia",
+    "City Or County":"Clarkston",
+    "Address":"6500 block of Old Hampton Dr",
+    "# Killed":3,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.480013,38.077806 ]
+    },
+    "properties": {
+    "FIELD1":86,
+    "Incident Date":"May 7, 2022",
+    "State":"Kentucky",
+    "City Or County":"Lexington",
+    "Address":"1560 LaSalle Rd",
+    "# Killed":2,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.639868,32.9175632 ]
+    },
+    "properties": {
+    "FIELD1":87,
+    "Incident Date":"May 7, 2022",
+    "State":"Texas",
+    "City Or County":"Garland",
+    "Address":"800 block of Magnolia Dr",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.248396,25.809598 ]
+    },
+    "properties": {
+    "FIELD1":88,
+    "Incident Date":"May 7, 2022",
+    "State":"Florida",
+    "City Or County":"Miami",
+    "Address":"NW 37th St and NW 32nd Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.91266456,30.03878876 ]
+    },
+    "properties": {
+    "FIELD1":89,
+    "Incident Date":"May 6, 2022",
+    "State":"Louisiana",
+    "City Or County":"New Orleans",
+    "Address":"4800 block of Alcee Fortier Blvd",
+    "# Killed":2,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.01401,46.322 ]
+    },
+    "properties": {
+    "FIELD1":90,
+    "Incident Date":"May 5, 2022",
+    "State":"Washington",
+    "City Or County":"Sunnyside",
+    "Address":"613 S 6th St",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.1511677,30.4674422 ]
+    },
+    "properties": {
+    "FIELD1":91,
+    "Incident Date":"May 3, 2022",
+    "State":"Louisiana",
+    "City Or County":"Baton Rouge",
+    "Address":"2100 block of North 39th St",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.98716736,37.24049377 ]
+    },
+    "properties": {
+    "FIELD1":92,
+    "Incident Date":"May 3, 2022",
+    "State":"Kansas",
+    "City Or County":"Cowley (county)",
+    "Address":"",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.081045,30.051586 ]
+    },
+    "properties": {
+    "FIELD1":93,
+    "Incident Date":"May 3, 2022",
+    "State":"Texas",
+    "City Or County":"Beaumont",
+    "Address":"3580 S Martin Luther King Jr Pkwy",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.018674,30.225674 ]
+    },
+    "properties": {
+    "FIELD1":94,
+    "Incident Date":"May 1, 2022",
+    "State":"Louisiana",
+    "City Or County":"Lafayette",
+    "Address":"500 Jefferson St",
+    "# Killed":0,
+    "# Injured":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.807695,39.909572 ]
+    },
+    "properties": {
+    "FIELD1":95,
+    "Incident Date":"May 1, 2022",
+    "State":"Ohio",
+    "City Or County":"Springfield",
+    "Address":"Clifton Ave and Rice St",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.754558,28.14411 ]
+    },
+    "properties": {
+    "FIELD1":96,
+    "Incident Date":"May 1, 2022",
+    "State":"Florida",
+    "City Or County":"Tarpon Springs",
+    "Address":"Safford Ave and Boyer St",
+    "# Killed":0,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0396,32.936846 ]
+    },
+    "properties": {
+    "FIELD1":97,
+    "Incident Date":"May 1, 2022",
+    "State":"South Carolina",
+    "City Or County":"North Charleston",
+    "Address":"US-52 and Ashley Phosphate Rd",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3761633,33.67955 ]
+    },
+    "properties": {
+    "FIELD1":98,
+    "Incident Date":"April 30, 2022",
+    "State":"Georgia",
+    "City Or County":"Atlanta",
+    "Address":"445 Cleveland Ave SE",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1730333,32.3016067 ]
+    },
+    "properties": {
+    "FIELD1":99,
+    "Incident Date":"April 30, 2022",
+    "State":"Mississippi",
+    "City Or County":"Jackson",
+    "Address":"1207 Mississippi Street",
+    "# Killed":1,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.853073,35.645476 ]
+    },
+    "properties": {
+    "FIELD1":100,
+    "Incident Date":"April 29, 2022",
+    "State":"Tennessee",
+    "City Or County":"Jackson",
+    "Address":"310 North Pkwy",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.086681,29.924175 ]
+    },
+    "properties": {
+    "FIELD1":101,
+    "Incident Date":"April 29, 2022",
+    "State":"Louisiana",
+    "City Or County":"New Orleans",
+    "Address":"3201 Magazine St",
+    "# Killed":0,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.145671,31.679106 ]
+    },
+    "properties": {
+    "FIELD1":102,
+    "Incident Date":"April 29, 2022",
+    "State":"Mississippi",
+    "City Or County":"Laurel",
+    "Address":"Ferrell St and Poplar Dr",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.94877986,33.39871583 ]
+    },
+    "properties": {
+    "FIELD1":103,
+    "Incident Date":"April 28, 2022",
+    "State":"Alabama",
+    "City Or County":"Bessemer",
+    "Address":"1800 block of Berkley Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.735577,41.877229 ]
+    },
+    "properties": {
+    "FIELD1":104,
+    "Incident Date":"April 27, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"4400 block of W Jackson Blvd",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.08970189,30.54176151 ]
+    },
+    "properties": {
+    "FIELD1":105,
+    "Incident Date":"April 27, 2022",
+    "State":"Louisiana",
+    "City Or County":"Opelousas",
+    "Address":"700 block of Mia St",
+    "# Killed":2,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.9964,30.390111 ]
+    },
+    "properties": {
+    "FIELD1":106,
+    "Incident Date":"April 27, 2022",
+    "State":"Mississippi",
+    "City Or County":"Biloxi",
+    "Address":"2688 Beach Blvd",
+    "# Killed":4,
+    "# Injured":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.624915,29.4694087 ]
+    },
+    "properties": {
+    "FIELD1":107,
+    "Incident Date":"April 27, 2022",
+    "State":"Texas",
+    "City Or County":"San Antonio",
+    "Address":"3399 Wurzbach Rd",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.205711,33.479163 ]
+    },
+    "properties": {
+    "FIELD1":108,
+    "Incident Date":"April 27, 2022",
+    "State":"Arizona",
+    "City Or County":"Phoenix",
+    "Address":"6719 W Thomas Rd",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.850263,33.505062 ]
+    },
+    "properties": {
+    "FIELD1":109,
+    "Incident Date":"April 25, 2022",
+    "State":"Alabama",
+    "City Or County":"Birmingham",
+    "Address":"821 3rd Ave W",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.877411,33.695 ]
+    },
+    "properties": {
+    "FIELD1":110,
+    "Incident Date":"April 24, 2022",
+    "State":"South Carolina",
+    "City Or County":"Myrtle Beach",
+    "Address":"12th Ave N and Withers Alley",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.9153704,40.3868905 ]
+    },
+    "properties": {
+    "FIELD1":111,
+    "Incident Date":"April 24, 2022",
+    "State":"Indiana",
+    "City Or County":"Lafayette",
+    "Address":"2905 Westchester Ln W",
+    "# Killed":2,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6747102,41.8014421 ]
+    },
+    "properties": {
+    "FIELD1":112,
+    "Incident Date":"April 23, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"2000 block of W 51st St",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.804195,35.977674 ]
+    },
+    "properties": {
+    "FIELD1":113,
+    "Incident Date":"April 23, 2022",
+    "State":"North Carolina",
+    "City Or County":"Rocky Mount",
+    "Address":"1171 Jefferies Rd",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.39183,33.759879 ]
+    },
+    "properties": {
+    "FIELD1":114,
+    "Incident Date":"April 23, 2022",
+    "State":"Georgia",
+    "City Or County":"Atlanta",
+    "Address":"135 Andrew Young International Blvd NW",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.306159,34.136291 ]
+    },
+    "properties": {
+    "FIELD1":115,
+    "Incident Date":"April 23, 2022",
+    "State":"California",
+    "City Or County":"San Bernardino",
+    "Address":"1036 W Highland Ave",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.37341185,37.20062364 ]
+    },
+    "properties": {
+    "FIELD1":116,
+    "Incident Date":"April 22, 2022",
+    "State":"Virginia",
+    "City Or County":"Petersburg",
+    "Address":"200 block of Holly Hill Dr",
+    "# Killed":1,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.487899,39.125784 ]
+    },
+    "properties": {
+    "FIELD1":117,
+    "Incident Date":"April 22, 2022",
+    "State":"Ohio",
+    "City Or County":"Cincinnati",
+    "Address":"Kemper Ln and E McMillan St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.059507,38.942716 ]
+    },
+    "properties": {
+    "FIELD1":118,
+    "Incident Date":"April 22, 2022",
+    "State":"District of Columbia",
+    "City Or County":"Washington",
+    "Address":"2900 block of Van Ness St NW",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.9340406,35.757848 ]
+    },
+    "properties": {
+    "FIELD1":119,
+    "Incident Date":"April 21, 2022",
+    "State":"Arkansas",
+    "City Or County":"Mountain View",
+    "Address":"646 Northcutt Rd",
+    "# Killed":4,
+    "# Injured":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.102257,46.802248 ]
+    },
+    "properties": {
+    "FIELD1":120,
+    "Incident Date":"April 20, 2022",
+    "State":"Minnesota",
+    "City Or County":"Duluth",
+    "Address":"715 E 12th St",
+    "# Killed":5,
+    "# Injured":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.13910529,39.9950171 ]
+    },
+    "properties": {
+    "FIELD1":121,
+    "Incident Date":"April 17, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Philadelphia",
+    "Address":"2800 block of Orkney St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.496883,45.518834 ]
+    },
+    "properties": {
+    "FIELD1":122,
+    "Incident Date":"April 17, 2022",
+    "State":"Oregon",
+    "City Or County":"Portland",
+    "Address":"16150 SE Stark St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.189759,32.690504 ]
+    },
+    "properties": {
+    "FIELD1":123,
+    "Incident Date":"April 17, 2022",
+    "State":"South Carolina",
+    "City Or County":"Furman",
+    "Address":"72 Ashley Circle Rd",
+    "# Killed":0,
+    "# Injured":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4597,38.495595 ]
+    },
+    "properties": {
+    "FIELD1":124,
+    "Incident Date":"April 17, 2022",
+    "State":"California",
+    "City Or County":"Sacramento",
+    "Address":"7200 block of Franklin Blvd",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.221778,25.912219 ]
+    },
+    "properties": {
+    "FIELD1":125,
+    "Incident Date":"April 17, 2022",
+    "State":"Florida",
+    "City Or County":"Miami",
+    "Address":"15020 South River Dr",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.997242,40.455917 ]
+    },
+    "properties": {
+    "FIELD1":126,
+    "Incident Date":"April 17, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Pittsburgh",
+    "Address":"900B Madison Ave",
+    "# Killed":2,
+    "# Injured":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.555929,29.833417 ]
+    },
+    "properties": {
+    "FIELD1":127,
+    "Incident Date":"April 17, 2022",
+    "State":"Louisiana",
+    "City Or County":"Baldwin",
+    "Address":"Rosebud Rd and Baptiste St",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.156999,34.078735 ]
+    },
+    "properties": {
+    "FIELD1":128,
+    "Incident Date":"April 16, 2022",
+    "State":"South Carolina",
+    "City Or County":"Columbia",
+    "Address":"100 Columbiana Cir",
+    "# Killed":0,
+    "# Injured":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.677672,39.351249 ]
+    },
+    "properties": {
+    "FIELD1":129,
+    "Incident Date":"April 16, 2022",
+    "State":"Maryland",
+    "City Or County":"Baltimore",
+    "Address":"5300 block of Maple Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1795361,36.24976256 ]
+    },
+    "properties": {
+    "FIELD1":130,
+    "Incident Date":"April 16, 2022",
+    "State":"Nevada",
+    "City Or County":"North Las Vegas",
+    "Address":"4900 block of Support St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.806508,33.063792 ]
+    },
+    "properties": {
+    "FIELD1":131,
+    "Incident Date":"April 16, 2022",
+    "State":"Texas",
+    "City Or County":"Daingerfield",
+    "Address":"FM 144 and Edwards Rd",
+    "# Killed":1,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1546983,43.0480217 ]
+    },
+    "properties": {
+    "FIELD1":132,
+    "Incident Date":"April 16, 2022",
+    "State":"New York",
+    "City Or County":"Syracuse",
+    "Address":"300 block of S Clinton St",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3007874,37.99628945 ]
+    },
+    "properties": {
+    "FIELD1":133,
+    "Incident Date":"April 15, 2022",
+    "State":"California",
+    "City Or County":"Stockton",
+    "Address":"300 block of Coventry Dr",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.004354,40.654283 ]
+    },
+    "properties": {
+    "FIELD1":134,
+    "Incident Date":"April 12, 2022",
+    "State":"New York",
+    "City Or County":"Brooklyn",
+    "Address":"36th St and 4th Ave",
+    "# Killed":0,
+    "# Injured":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8686155,40.8672041 ]
+    },
+    "properties": {
+    "FIELD1":135,
+    "Incident Date":"April 12, 2022",
+    "State":"New York",
+    "City Or County":"Bronx",
+    "Address":"2825 Olinville Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.1628991,30.4969779 ]
+    },
+    "properties": {
+    "FIELD1":136,
+    "Incident Date":"April 10, 2022",
+    "State":"Louisiana",
+    "City Or County":"Baton Rouge",
+    "Address":"2700 block of Lorraine St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.664639,41.976142 ]
+    },
+    "properties": {
+    "FIELD1":137,
+    "Incident Date":"April 10, 2022",
+    "State":"Iowa",
+    "City Or County":"Cedar Rapids",
+    "Address":"415 3rd St SE",
+    "# Killed":2,
+    "# Injured":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2549903,42.0572995 ]
+    },
+    "properties": {
+    "FIELD1":138,
+    "Incident Date":"April 10, 2022",
+    "State":"Illinois",
+    "City Or County":"Elgin",
+    "Address":"958 Congdon Ave",
+    "# Killed":2,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2473234,33.9213116 ]
+    },
+    "properties": {
+    "FIELD1":139,
+    "Incident Date":"April 10, 2022",
+    "State":"California",
+    "City Or County":"Willowbrook",
+    "Address":"Blakley Ave and E 122nd Pl",
+    "# Killed":2,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.233202,39.82539 ]
+    },
+    "properties": {
+    "FIELD1":140,
+    "Incident Date":"April 10, 2022",
+    "State":"Indiana",
+    "City Or County":"Indianapolis",
+    "Address":"4270 W 38th St",
+    "# Killed":1,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0106508,38.8729658 ]
+    },
+    "properties": {
+    "FIELD1":141,
+    "Incident Date":"April 9, 2022",
+    "State":"District of Columbia",
+    "City Or County":"Washington",
+    "Address":"O St SW and Half St SW",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.223289,25.836413 ]
+    },
+    "properties": {
+    "FIELD1":142,
+    "Incident Date":"April 9, 2022",
+    "State":"Florida",
+    "City Or County":"Miami",
+    "Address":"6816 NW 15th Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.084711,40.01704 ]
+    },
+    "properties": {
+    "FIELD1":143,
+    "Incident Date":"April 6, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Philadelphia",
+    "Address":"Griscom St and Arrott St",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.51027,39.071222 ]
+    },
+    "properties": {
+    "FIELD1":144,
+    "Incident Date":"April 4, 2022",
+    "State":"Kentucky",
+    "City Or County":"Covington",
+    "Address":"Russell St and W 16th St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.683763,41.780092 ]
+    },
+    "properties": {
+    "FIELD1":145,
+    "Incident Date":"April 4, 2022",
+    "State":"Connecticut",
+    "City Or County":"Hartford",
+    "Address":"Bedford St and Mather St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.63602816,43.15002526 ]
+    },
+    "properties": {
+    "FIELD1":146,
+    "Incident Date":"April 3, 2022",
+    "State":"New York",
+    "City Or County":"Buffalo",
+    "Address":"400 block of Genesee St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4470292,37.7095186 ]
+    },
+    "properties": {
+    "FIELD1":147,
+    "Incident Date":"April 3, 2022",
+    "State":"California",
+    "City Or County":"San Francisco",
+    "Address":"670 Brunswick St",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7383262,32.6399817 ]
+    },
+    "properties": {
+    "FIELD1":148,
+    "Incident Date":"April 3, 2022",
+    "State":"Texas",
+    "City Or County":"Dallas",
+    "Address":"5050 Cleveland Rd",
+    "# Killed":1,
+    "# Injured":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4934628,38.5803175 ]
+    },
+    "properties": {
+    "FIELD1":149,
+    "Incident Date":"April 3, 2022",
+    "State":"California",
+    "City Or County":"Sacramento",
+    "Address":"J St and 10th St",
+    "# Killed":6,
+    "# Injured":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.489566,35.27021 ]
+    },
+    "properties": {
+    "FIELD1":150,
+    "Incident Date":"April 2, 2022",
+    "State":"North Carolina",
+    "City Or County":"Shelby",
+    "Address":"1851 E Dixon Blvd",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.0816668,32.522756 ]
+    },
+    "properties": {
+    "FIELD1":151,
+    "Incident Date":"April 2, 2022",
+    "State":"Louisiana",
+    "City Or County":"Monroe",
+    "Address":"100 Sterlington Rd",
+    "# Killed":1,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.7475555,38.79853756 ]
+    },
+    "properties": {
+    "FIELD1":152,
+    "Incident Date":"April 2, 2022",
+    "State":"Colorado",
+    "City Or County":"Colorado Springs",
+    "Address":"2400 block of Barkman Dr",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.737074,32.501192 ]
+    },
+    "properties": {
+    "FIELD1":153,
+    "Incident Date":"April 2, 2022",
+    "State":"Louisiana",
+    "City Or County":"Shreveport",
+    "Address":"2025 Marshall St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.72932243,32.99427212 ]
+    },
+    "properties": {
+    "FIELD1":154,
+    "Incident Date":"April 1, 2022",
+    "State":"South Carolina",
+    "City Or County":"Walterboro",
+    "Address":"1900 Block of Logan Farm Rd",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.398311,36.861663 ]
+    },
+    "properties": {
+    "FIELD1":155,
+    "Incident Date":"March 26, 2022",
+    "State":"California",
+    "City Or County":"Hollister",
+    "Address":"Rustic St and Roble St",
+    "# Killed":2,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.68582,41.506572 ]
+    },
+    "properties": {
+    "FIELD1":156,
+    "Incident Date":"March 26, 2022",
+    "State":"Ohio",
+    "City Or County":"Cleveland",
+    "Address":"1437 St Clair Ave NE",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.761389,38.844428 ]
+    },
+    "properties": {
+    "FIELD1":157,
+    "Incident Date":"March 25, 2022",
+    "State":"Colorado",
+    "City Or County":"Colorado Springs",
+    "Address":"820 Citadel Dr E",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.280415,37.975355 ]
+    },
+    "properties": {
+    "FIELD1":158,
+    "Incident Date":"March 22, 2022",
+    "State":"California",
+    "City Or County":"Stockton",
+    "Address":"1800 West Lane",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.039474,41.55402 ]
+    },
+    "properties": {
+    "FIELD1":159,
+    "Incident Date":"March 21, 2022",
+    "State":"Connecticut",
+    "City Or County":"Waterbury",
+    "Address":"23 Scovill St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.583758,41.751712 ]
+    },
+    "properties": {
+    "FIELD1":160,
+    "Incident Date":"March 21, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"1650 E 79th St",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.94905,43.087768 ]
+    },
+    "properties": {
+    "FIELD1":161,
+    "Incident Date":"March 20, 2022",
+    "State":"Wisconsin",
+    "City Or County":"Milwaukee",
+    "Address":"2822 W Melvina St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.381371,29.599034 ]
+    },
+    "properties": {
+    "FIELD1":162,
+    "Incident Date":"March 20, 2022",
+    "State":"Texas",
+    "City Or County":"Houston",
+    "Address":"2955 S Sam Houston Pkwy E",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.738272,30.266792 ]
+    },
+    "properties": {
+    "FIELD1":163,
+    "Incident Date":"March 20, 2022",
+    "State":"Texas",
+    "City Or County":"Austin",
+    "Address":"E 6th St and Neches St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.289821,36.850263 ]
+    },
+    "properties": {
+    "FIELD1":164,
+    "Incident Date":"March 19, 2022",
+    "State":"Virginia",
+    "City Or County":"Norfolk",
+    "Address":"320 Granby St",
+    "# Killed":3,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.927906,35.029409 ]
+    },
+    "properties": {
+    "FIELD1":165,
+    "Incident Date":"March 19, 2022",
+    "State":"North Carolina",
+    "City Or County":"Fayetteville",
+    "Address":"1707 Owen Dr",
+    "# Killed":3,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.480939,33.879182 ]
+    },
+    "properties": {
+    "FIELD1":166,
+    "Incident Date":"March 19, 2022",
+    "State":"Arkansas",
+    "City Or County":"Dumas",
+    "Address":"611 Highway 65 S",
+    "# Killed":1,
+    "# Injured":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.0972908,37.432173 ]
+    },
+    "properties": {
+    "FIELD1":167,
+    "Incident Date":"March 19, 2022",
+    "State":"Virginia",
+    "City Or County":"Madison Heights",
+    "Address":"351 Old Wright Shop Rd",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.75934,32.743918 ]
+    },
+    "properties": {
+    "FIELD1":168,
+    "Incident Date":"March 19, 2022",
+    "State":"Texas",
+    "City Or County":"Dallas",
+    "Address":"5214 Botham Jean Blvd",
+    "# Killed":1,
+    "# Injured":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.367464,32.796785 ]
+    },
+    "properties": {
+    "FIELD1":169,
+    "Incident Date":"March 18, 2022",
+    "State":"Texas",
+    "City Or County":"Fort Worth",
+    "Address":"1600 block of NW Loraine St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.82739403,30.0015263 ]
+    },
+    "properties": {
+    "FIELD1":170,
+    "Incident Date":"March 18, 2022",
+    "State":"Louisiana",
+    "City Or County":"New Iberia",
+    "Address":"200 block of C V Jackson Dr",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.519857,42.73338 ]
+    },
+    "properties": {
+    "FIELD1":171,
+    "Incident Date":"March 17, 2022",
+    "State":"Michigan",
+    "City Or County":"Lansing",
+    "Address":"2200 block of E Michigan Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.72949087,41.8797774 ]
+    },
+    "properties": {
+    "FIELD1":172,
+    "Incident Date":"March 17, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"4100 block of W Monroe St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.15872,26.121436 ]
+    },
+    "properties": {
+    "FIELD1":173,
+    "Incident Date":"March 17, 2022",
+    "State":"Florida",
+    "City Or County":"Fort Lauderdale",
+    "Address":"1300 W Broward Blvd",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.22017541,40.73687516 ]
+    },
+    "properties": {
+    "FIELD1":174,
+    "Incident Date":"March 16, 2022",
+    "State":"New Jersey",
+    "City Or County":"Irvington",
+    "Address":"800 block of 18th Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2228667,40.737925 ]
+    },
+    "properties": {
+    "FIELD1":175,
+    "Incident Date":"March 16, 2022",
+    "State":"New Jersey",
+    "City Or County":"Irvington",
+    "Address":"862 18th Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.658088,31.448818 ]
+    },
+    "properties": {
+    "FIELD1":176,
+    "Incident Date":"March 15, 2022",
+    "State":"Alabama",
+    "City Or County":"Ozark",
+    "Address":"1001 US Hwy 231",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.94965688,40.31493145 ]
+    },
+    "properties": {
+    "FIELD1":177,
+    "Incident Date":"March 14, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Reading",
+    "Address":"1300 block of Meade St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.55336,41.751793 ]
+    },
+    "properties": {
+    "FIELD1":178,
+    "Incident Date":"March 13, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"7902 S Exchange Ave",
+    "# Killed":0,
+    "# Injured":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.621745,43.1629017 ]
+    },
+    "properties": {
+    "FIELD1":179,
+    "Incident Date":"March 13, 2022",
+    "State":"New York",
+    "City Or County":"Rochester",
+    "Address":"471 State St",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0402258,33.9932778 ]
+    },
+    "properties": {
+    "FIELD1":180,
+    "Incident Date":"March 13, 2022",
+    "State":"South Carolina",
+    "City Or County":"Columbia",
+    "Address":"810 Pulaski St",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.695616,39.331344 ]
+    },
+    "properties": {
+    "FIELD1":181,
+    "Incident Date":"March 12, 2022",
+    "State":"Maryland",
+    "City Or County":"Baltimore",
+    "Address":"Gwynn Oak Ave and Liberty Heights Ave",
+    "# Killed":3,
+    "# Injured":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.653818,32.43461924 ]
+    },
+    "properties": {
+    "FIELD1":182,
+    "Incident Date":"March 12, 2022",
+    "State":"Alabama",
+    "City Or County":"Autaugaville",
+    "Address":"200 block of N Pickett St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.974167,40.088372 ]
+    },
+    "properties": {
+    "FIELD1":183,
+    "Incident Date":"March 11, 2022",
+    "State":"Ohio",
+    "City Or County":"Columbus",
+    "Address":"1644 E Dublin-Granville Rd",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.793024,39.765473 ]
+    },
+    "properties": {
+    "FIELD1":184,
+    "Incident Date":"March 9, 2022",
+    "State":"Colorado",
+    "City Or County":"Aurora",
+    "Address":"3300 N Ouray St",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6041994,30.4837195 ]
+    },
+    "properties": {
+    "FIELD1":185,
+    "Incident Date":"March 8, 2022",
+    "State":"Florida",
+    "City Or County":"Jacksonville",
+    "Address":"Duval Station Rd and Starratt Rd",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.98226184,36.0147299 ]
+    },
+    "properties": {
+    "FIELD1":186,
+    "Incident Date":"March 7, 2022",
+    "State":"Tennessee",
+    "City Or County":"Knoxville",
+    "Address":"5800 block of Primus Rd",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2800243,44.9529987 ]
+    },
+    "properties": {
+    "FIELD1":187,
+    "Incident Date":"March 6, 2022",
+    "State":"Minnesota",
+    "City Or County":"Minneapolis",
+    "Address":"2720 Blaisdell Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9764572,40.9494507 ]
+    },
+    "properties": {
+    "FIELD1":188,
+    "Incident Date":"March 6, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Hazleton",
+    "Address":"182 S  Wyoming St",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.742066,38.252477 ]
+    },
+    "properties": {
+    "FIELD1":189,
+    "Incident Date":"March 6, 2022",
+    "State":"Kentucky",
+    "City Or County":"Louisville",
+    "Address":"601 E Jefferson St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.8155872,33.59371743 ]
+    },
+    "properties": {
+    "FIELD1":190,
+    "Incident Date":"March 6, 2022",
+    "State":"Texas",
+    "City Or County":"Lubbock",
+    "Address":"1800 block of Parkway Dr",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.080986,32.503921 ]
+    },
+    "properties": {
+    "FIELD1":191,
+    "Incident Date":"March 6, 2022",
+    "State":"Louisiana",
+    "City Or County":"Monroe",
+    "Address":"1051 Martin Luther King Junior Drive",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.131584,34.810287 ]
+    },
+    "properties": {
+    "FIELD1":192,
+    "Incident Date":"March 6, 2022",
+    "State":"South Carolina",
+    "City Or County":"Chester",
+    "Address":"Powell Dr and Harvey Neely Rd",
+    "# Killed":2,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.162669,33.538737 ]
+    },
+    "properties": {
+    "FIELD1":193,
+    "Incident Date":"March 5, 2022",
+    "State":"Arizona",
+    "City Or County":"Glendale",
+    "Address":"4810 W Glendale Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.47919665,33.91169465 ]
+    },
+    "properties": {
+    "FIELD1":194,
+    "Incident Date":"March 5, 2022",
+    "State":"Georgia",
+    "City Or County":"Atlanta",
+    "Address":"I-75 and Langford Pkwy",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.147898,36.115797 ]
+    },
+    "properties": {
+    "FIELD1":195,
+    "Incident Date":"March 3, 2022",
+    "State":"Nevada",
+    "City Or County":"Las Vegas",
+    "Address":"4055 S University Center Dr",
+    "# Killed":1,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6640771,39.3102934 ]
+    },
+    "properties": {
+    "FIELD1":196,
+    "Incident Date":"March 2, 2022",
+    "State":"Maryland",
+    "City Or County":"Baltimore",
+    "Address":"Walbrook Ave and N Dukeland St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.419006,38.600372 ]
+    },
+    "properties": {
+    "FIELD1":197,
+    "Incident Date":"February 28, 2022",
+    "State":"California",
+    "City Or County":"Sacramento",
+    "Address":"2041 Wyda Way",
+    "# Killed":5,
+    "# Injured":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.42135584,31.29459138 ]
+    },
+    "properties": {
+    "FIELD1":198,
+    "Incident Date":"February 27, 2022",
+    "State":"Louisiana",
+    "City Or County":"Alexandria",
+    "Address":"3700 block of 3rd St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.985934,32.8507092 ]
+    },
+    "properties": {
+    "FIELD1":199,
+    "Incident Date":"February 26, 2022",
+    "State":"South Carolina",
+    "City Or County":"North Charleston",
+    "Address":"2622 S Allen Dr",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.143667,36.143408 ]
+    },
+    "properties": {
+    "FIELD1":200,
+    "Incident Date":"February 26, 2022",
+    "State":"Nevada",
+    "City Or County":"Las Vegas",
+    "Address":"953 E Sahara Ave",
+    "# Killed":1,
+    "# Injured":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.85335,30.7752 ]
+    },
+    "properties": {
+    "FIELD1":201,
+    "Incident Date":"February 26, 2022",
+    "State":"Louisiana",
+    "City Or County":"Bogalusa",
+    "Address":"E 4th St and Martin Luther King Jr Dr",
+    "# Killed":0,
+    "# Injured":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.087379,30.388281 ]
+    },
+    "properties": {
+    "FIELD1":202,
+    "Incident Date":"February 25, 2022",
+    "State":"Louisiana",
+    "City Or County":"Baton Rouge",
+    "Address":"6401 Bluebonnet Blvd",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.41503134,29.50325564 ]
+    },
+    "properties": {
+    "FIELD1":203,
+    "Incident Date":"February 24, 2022",
+    "State":"Texas",
+    "City Or County":"San Antonio",
+    "Address":"90 Lanark Dr",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0848412,44.9311886 ]
+    },
+    "properties": {
+    "FIELD1":204,
+    "Incident Date":"February 21, 2022",
+    "State":"Minnesota",
+    "City Or County":"Saint Paul",
+    "Address":"488 Humboldt Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.961166,41.275899 ]
+    },
+    "properties": {
+    "FIELD1":205,
+    "Incident Date":"February 20, 2022",
+    "State":"Nebraska",
+    "City Or County":"Omaha",
+    "Address":"1817 N 33rd St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.617963,41.58406 ]
+    },
+    "properties": {
+    "FIELD1":206,
+    "Incident Date":"February 20, 2022",
+    "State":"Iowa",
+    "City Or County":"Des Moines",
+    "Address":"100 block of Water St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.532117,45.476683 ]
+    },
+    "properties": {
+    "FIELD1":207,
+    "Incident Date":"February 20, 2022",
+    "State":"Oregon",
+    "City Or County":"Portland",
+    "Address":"SE Foster Rd and 128th Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.4582655,31.2446263 ]
+    },
+    "properties": {
+    "FIELD1":208,
+    "Incident Date":"February 20, 2022",
+    "State":"Mississippi",
+    "City Or County":"Mccomb",
+    "Address":"Minnesota Ave and 6th St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.9031195,35.9429443 ]
+    },
+    "properties": {
+    "FIELD1":209,
+    "Incident Date":"February 19, 2022",
+    "State":"North Carolina",
+    "City Or County":"Durham",
+    "Address":"1400 E Cornwallis Rd",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.607519,45.530236 ]
+    },
+    "properties": {
+    "FIELD1":210,
+    "Incident Date":"February 19, 2022",
+    "State":"Oregon",
+    "City Or County":"Portland",
+    "Address":"NE 55th Ave and NE Hassalo St",
+    "# Killed":1,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3513829,36.922991 ]
+    },
+    "properties": {
+    "FIELD1":211,
+    "Incident Date":"February 19, 2022",
+    "State":"Missouri",
+    "City Or County":"Charleston",
+    "Address":"106 S Franklin St",
+    "# Killed":2,
+    "# Injured":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.845987,37.493151 ]
+    },
+    "properties": {
+    "FIELD1":212,
+    "Incident Date":"February 19, 2022",
+    "State":"California",
+    "City Or County":"Turlock",
+    "Address":"142 S 1st St",
+    "# Killed":0,
+    "# Injured":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9459926,38.83248992 ]
+    },
+    "properties": {
+    "FIELD1":213,
+    "Incident Date":"February 18, 2022",
+    "State":"Maryland",
+    "City Or County":"Temple Hills (Marlow Heights)",
+    "Address":"4200 block of 28th Ave",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.178158,40.032243 ]
+    },
+    "properties": {
+    "FIELD1":214,
+    "Incident Date":"February 17, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Philadelphia",
+    "Address":"164 W Chelten Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.367263,29.721712 ]
+    },
+    "properties": {
+    "FIELD1":215,
+    "Incident Date":"February 17, 2022",
+    "State":"Texas",
+    "City Or County":"Houston",
+    "Address":"3000 Blodgett St",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.23217,25.864668 ]
+    },
+    "properties": {
+    "FIELD1":216,
+    "Incident Date":"February 16, 2022",
+    "State":"Florida",
+    "City Or County":"Miami",
+    "Address":"NW 99th St and NW 21st Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.064603,41.541339 ]
+    },
+    "properties": {
+    "FIELD1":217,
+    "Incident Date":"February 15, 2022",
+    "State":"Illinois",
+    "City Or County":"Joliet",
+    "Address":"700 block of Francis St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.786031,42.725972 ]
+    },
+    "properties": {
+    "FIELD1":218,
+    "Incident Date":"February 13, 2022",
+    "State":"Wisconsin",
+    "City Or County":"Racine",
+    "Address":"7th St and Park Ave",
+    "# Killed":1,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.376782,34.078748 ]
+    },
+    "properties": {
+    "FIELD1":219,
+    "Incident Date":"February 12, 2022",
+    "State":"California",
+    "City Or County":"West Hollywood",
+    "Address":"401 N La Cienega Blvd",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.3749331,35.8317673 ]
+    },
+    "properties": {
+    "FIELD1":220,
+    "Incident Date":"February 12, 2022",
+    "State":"Tennessee",
+    "City Or County":"Murfreesboro",
+    "Address":"1644 Middle Tennessee Blvd",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.26982151,34.74200007 ]
+    },
+    "properties": {
+    "FIELD1":221,
+    "Incident Date":"February 12, 2022",
+    "State":"Arkansas",
+    "City Or County":"Little Rock",
+    "Address":"200 block of E 7th St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.272315,37.240609 ]
+    },
+    "properties": {
+    "FIELD1":222,
+    "Incident Date":"February 11, 2022",
+    "State":"Missouri",
+    "City Or County":"Springfield",
+    "Address":"E Kearney St and N Prospect Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.175598,33.41389 ]
+    },
+    "properties": {
+    "FIELD1":223,
+    "Incident Date":"February 11, 2022",
+    "State":"Arizona",
+    "City Or County":"Phoenix",
+    "Address":"5405 W Warner St",
+    "# Killed":2,
+    "# Injured":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.120978,41.654814 ]
+    },
+    "properties": {
+    "FIELD1":224,
+    "Incident Date":"February 6, 2022",
+    "State":"Illinois",
+    "City Or County":"Romeoville",
+    "Address":"735 N Center Blvd",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.795338,36.719634 ]
+    },
+    "properties": {
+    "FIELD1":225,
+    "Incident Date":"February 6, 2022",
+    "State":"California",
+    "City Or County":"Fresno",
+    "Address":"S Clara Ave and E Lorena Ave",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.90539924,34.24242903 ]
+    },
+    "properties": {
+    "FIELD1":226,
+    "Incident Date":"February 6, 2022",
+    "State":"North Carolina",
+    "City Or County":"Wilmington",
+    "Address":"200 block of North 31st St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.20762704,26.05957586 ]
+    },
+    "properties": {
+    "FIELD1":227,
+    "Incident Date":"February 6, 2022",
+    "State":"Florida",
+    "City Or County":"Fort Lauderdale",
+    "Address":"5280 FL-7",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.746855,32.29348952 ]
+    },
+    "properties": {
+    "FIELD1":228,
+    "Incident Date":"February 5, 2022",
+    "State":"New Mexico",
+    "City Or County":"Las Cruces",
+    "Address":"1900 block of Gladys Dr",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.49666,32.082331 ]
+    },
+    "properties": {
+    "FIELD1":229,
+    "Incident Date":"February 5, 2022",
+    "State":"Texas",
+    "City Or County":"Corsicana",
+    "Address":"2919 W 2nd Ave",
+    "# Killed":6,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.414253,37.22942 ]
+    },
+    "properties": {
+    "FIELD1":230,
+    "Incident Date":"February 4, 2022",
+    "State":"Virginia",
+    "City Or County":"Blacksburg",
+    "Address":"109 N Main St",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.571111,39.498566 ]
+    },
+    "properties": {
+    "FIELD1":231,
+    "Incident Date":"February 2, 2022",
+    "State":"California",
+    "City Or County":"Oroville",
+    "Address":"410 Oro Dam Blvd E",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.932969,43.093455 ]
+    },
+    "properties": {
+    "FIELD1":232,
+    "Incident Date":"February 1, 2022",
+    "State":"Wisconsin",
+    "City Or County":"Milwaukee",
+    "Address":"1801 W Olive St",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.586379,35.7891388 ]
+    },
+    "properties": {
+    "FIELD1":233,
+    "Incident Date":"January 31, 2022",
+    "State":"North Carolina",
+    "City Or County":"Raleigh",
+    "Address":"3120 New Bern Ave",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6938774,28.02445775 ]
+    },
+    "properties": {
+    "FIELD1":234,
+    "Incident Date":"January 30, 2022",
+    "State":"Florida",
+    "City Or County":"Winter Haven",
+    "Address":"Buckeye Loop Rd and MLK Blvd NE",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.022664,33.440502 ]
+    },
+    "properties": {
+    "FIELD1":235,
+    "Incident Date":"January 30, 2022",
+    "State":"Georgia",
+    "City Or County":"Augusta",
+    "Address":"2623 Deans Bridge Rd",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.25714884,38.66436535 ]
+    },
+    "properties": {
+    "FIELD1":236,
+    "Incident Date":"January 29, 2022",
+    "State":"Missouri",
+    "City Or County":"Saint Louis",
+    "Address":"4900 block of Cote Brilliante",
+    "# Killed":3,
+    "# Injured":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.417065,33.754955 ]
+    },
+    "properties": {
+    "FIELD1":237,
+    "Incident Date":"January 29, 2022",
+    "State":"Georgia",
+    "City Or County":"Atlanta",
+    "Address":"899 Martin Luther King Jr Dr NW",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.120914,35.383951 ]
+    },
+    "properties": {
+    "FIELD1":238,
+    "Incident Date":"January 29, 2022",
+    "State":"California",
+    "City Or County":"Bakersfield",
+    "Address":"10612 Rosedale Hwy",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.065486,38.946959 ]
+    },
+    "properties": {
+    "FIELD1":239,
+    "Incident Date":"January 27, 2022",
+    "State":"District of Columbia",
+    "City Or County":"Washington",
+    "Address":"4400 Connecticut Ave",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.345208,33.97945 ]
+    },
+    "properties": {
+    "FIELD1":240,
+    "Incident Date":"January 23, 2022",
+    "State":"California",
+    "City Or County":"Inglewood",
+    "Address":"1300 block of North Park Ave",
+    "# Killed":4,
+    "# Injured":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.939139,43.064373 ]
+    },
+    "properties": {
+    "FIELD1":241,
+    "Incident Date":"January 23, 2022",
+    "State":"Wisconsin",
+    "City Or County":"Milwaukee",
+    "Address":"2505 N 21st St",
+    "# Killed":6,
+    "# Injured":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.583711,39.298792 ]
+    },
+    "properties": {
+    "FIELD1":242,
+    "Incident Date":"January 19, 2022",
+    "State":"Maryland",
+    "City Or County":"Baltimore",
+    "Address":"E Monument St and N Montford Ave",
+    "# Killed":3,
+    "# Injured":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.02113,30.031998 ]
+    },
+    "properties": {
+    "FIELD1":243,
+    "Incident Date":"January 19, 2022",
+    "State":"Louisiana",
+    "City Or County":"New Orleans",
+    "Address":"7800 block of Keats St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.210393,25.872993 ]
+    },
+    "properties": {
+    "FIELD1":244,
+    "Incident Date":"January 18, 2022",
+    "State":"Florida",
+    "City Or County":"Miami",
+    "Address":"10702 NW 7th Ave",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.43962723,29.41947818 ]
+    },
+    "properties": {
+    "FIELD1":245,
+    "Incident Date":"January 17, 2022",
+    "State":"Texas",
+    "City Or County":"San Antonio",
+    "Address":"400 block of Spriggsdale Ave",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.08003475,32.06265988 ]
+    },
+    "properties": {
+    "FIELD1":246,
+    "Incident Date":"January 16, 2022",
+    "State":"Georgia",
+    "City Or County":"Savannah",
+    "Address":"1100 Graydon St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.888026,35.985158 ]
+    },
+    "properties": {
+    "FIELD1":247,
+    "Incident Date":"January 15, 2022",
+    "State":"Tennessee",
+    "City Or County":"Knoxville",
+    "Address":"2700 block of Tarleton Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.475876,31.168518 ]
+    },
+    "properties": {
+    "FIELD1":248,
+    "Incident Date":"January 15, 2022",
+    "State":"Georgia",
+    "City Or County":"Brunswick",
+    "Address":"2717 Glynn Ave",
+    "# Killed":1,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.096207,44.05103344 ]
+    },
+    "properties": {
+    "FIELD1":249,
+    "Incident Date":"January 14, 2022",
+    "State":"Oregon",
+    "City Or County":"Eugene",
+    "Address":"219 W 8th Ave",
+    "# Killed":0,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.908471,40.644131 ]
+    },
+    "properties": {
+    "FIELD1":250,
+    "Incident Date":"January 13, 2022",
+    "State":"New York",
+    "City Or County":"Brooklyn",
+    "Address":"1014 E 92nd St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6156383,41.7798275 ]
+    },
+    "properties": {
+    "FIELD1":251,
+    "Incident Date":"January 12, 2022",
+    "State":"Illinois",
+    "City Or County":"Chicago",
+    "Address":"S King Dr and E 63rd St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.802272,36.757439 ]
+    },
+    "properties": {
+    "FIELD1":252,
+    "Incident Date":"January 9, 2022",
+    "State":"California",
+    "City Or County":"Fresno",
+    "Address":"724 E Olive Ave",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.275764,34.018285 ]
+    },
+    "properties": {
+    "FIELD1":253,
+    "Incident Date":"January 9, 2022",
+    "State":"California",
+    "City Or County":"Los Angeles",
+    "Address":"W 35th St and S Hill St",
+    "# Killed":2,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.26624,32.382598 ]
+    },
+    "properties": {
+    "FIELD1":254,
+    "Incident Date":"January 9, 2022",
+    "State":"Alabama",
+    "City Or County":"Montgomery",
+    "Address":"3020 Atlanta Hwy",
+    "# Killed":1,
+    "# Injured":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.7520077,38.803767 ]
+    },
+    "properties": {
+    "FIELD1":255,
+    "Incident Date":"January 9, 2022",
+    "State":"Colorado",
+    "City Or County":"Colorado Springs",
+    "Address":"1960 Chelton Rd",
+    "# Killed":2,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.510871,29.709462 ]
+    },
+    "properties": {
+    "FIELD1":256,
+    "Incident Date":"January 8, 2022",
+    "State":"Texas",
+    "City Or County":"Houston",
+    "Address":"7136 Clarewood Dr",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.2274063,32.321826 ]
+    },
+    "properties": {
+    "FIELD1":257,
+    "Incident Date":"January 4, 2022",
+    "State":"Mississippi",
+    "City Or County":"Jackson",
+    "Address":"3207 W Capitol St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.478432,32.075941 ]
+    },
+    "properties": {
+    "FIELD1":258,
+    "Incident Date":"January 2, 2022",
+    "State":"Texas",
+    "City Or County":"Corsicana",
+    "Address":"1100 block of S 29th St",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.461673,29.370153 ]
+    },
+    "properties": {
+    "FIELD1":259,
+    "Incident Date":"January 2, 2022",
+    "State":"Texas",
+    "City Or County":"San Antonio",
+    "Address":"427 Montrose",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.327366,38.949829 ]
+    },
+    "properties": {
+    "FIELD1":260,
+    "Incident Date":"January 1, 2022",
+    "State":"Missouri",
+    "City Or County":"Columbia",
+    "Address":"122 S 9th St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.161404,39.978916 ]
+    },
+    "properties": {
+    "FIELD1":261,
+    "Incident Date":"January 1, 2022",
+    "State":"Pennsylvania",
+    "City Or County":"Philadelphia",
+    "Address":"1600 block of Cecil B Moore Ave",
+    "# Killed":1,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.830403,42.588288 ]
+    },
+    "properties": {
+    "FIELD1":262,
+    "Incident Date":"January 1, 2022",
+    "State":"Wisconsin",
+    "City Or County":"Kenosha",
+    "Address":"1708 52nd St",
+    "# Killed":1,
+    "# Injured":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.611213,40.677127 ]
+    },
+    "properties": {
+    "FIELD1":263,
+    "Incident Date":"January 1, 2022",
+    "State":"Illinois",
+    "City Or County":"Peoria",
+    "Address":"2000 block of SW Adams St",
+    "# Killed":2,
+    "# Injured":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.263373,34.383823 ]
+    },
+    "properties": {
+    "FIELD1":264,
+    "Incident Date":"January 1, 2022",
+    "State":"South Carolina",
+    "City Or County":"Dillon",
+    "Address":"3261 Hwy 9",
+    "# Killed":0,
+    "# Injured":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.23492295,41.65885863 ]
+    },
+    "properties": {
+    "FIELD1":265,
+    "Incident Date":"January 1, 2022",
+    "State":"Indiana",
+    "City Or County":"South Bend",
+    "Address":"1500 block of S Miami St",
+    "# Killed":0,
+    "# Injured":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.995464,39.753915 ]
+    },
+    "properties": {
+    "FIELD1":266,
+    "Incident Date":"January 1, 2022",
+    "State":"Colorado",
+    "City Or County":"Denver",
+    "Address":"1919 Blake St",
+    "# Killed":2,
+    "# Injured":2
+    }
+  }
+]
+}
