@@ -95,8 +95,8 @@ def render_page_content(pathname):
         return html.Div([
             html.H2("USA Mass Shootings 2022"),
             dcc.Graph(
-            id="mass_shooting_map",
-            figure=fig
+                id="mass_shooting_map",
+                figure=fig
             ),
         ])
     elif pathname == "/page-1":
