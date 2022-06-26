@@ -79,7 +79,6 @@ fig = go.Figure(
     )
 )
 
-
 fig.update_layout(
     geo_scope="usa",
     autosize=True,
@@ -87,22 +86,48 @@ fig.update_layout(
     margin=dict(t=0, b=0, l=0, r=0)
 )
 
+about_page_1 = html.Div([
+    html.H1("Why was this dashboard created?"),
+    html.H3("This dashboard was created as a way of tracking gun violence within America as"
+            " a result of the mounting gun violence within the country"),
+
+    html.Hr(),
+
+    html.H1("Where did this data come from?"),
+    html.H3("The data for this dashboard was taken from the Gun Violence Archive (https://www.gunviolencearchive.org) "
+            "more links and websites similar to the Gun Violence Archive can be found in the Learn More page"),
+
+])
+
+learn_more_page_2 = html.Div([
+    html.H1("Gun Violence Archive"),
+    html.H3("https://www.gunviolencearchive.org"),
+    html.Hr(),
+    html.H1("The Violence project"),
+    html.H3("https://www.theviolenceproject.org"),
+    html.Hr(),
+    html.H1("Mass Shooting Tracker"),
+    html.H3("https://massshootingtracker.site"),
+])
+
 
 @app.callback(Output("page-content", "children"), [Input("url", "pathname")])
 def render_page_content(pathname):
     if pathname == "/":
-        #return html.P("This is the content of the home page!")
         return html.Div([
             html.H2("USA Mass Shootings 2022"),
             dcc.Graph(
                 id="mass_shooting_map",
                 figure=fig
             ),
+            html.Hr(),
+            html.H2("330 US mass shootings in 2022"),
+            html.H2("4712 mass shootings have occured in the US since 1/1/2013"),
         ])
     elif pathname == "/page-1":
-        return html.P("This is the content of page 1. Yay!")
+        return about_page_1
     elif pathname == "/page-2":
-        return html.P("Oh cool, this is page 2!")
+        return learn_more_page_2
     # If the user tries to reach a different page, return a 404 message
     return dbc.Jumbotron(
         [
@@ -111,6 +136,7 @@ def render_page_content(pathname):
             html.P(f"The pathname {pathname} was not recognised..."),
         ]
     )
+
 
 if __name__ == "__main__":
     df.head()
