@@ -3,4 +3,13 @@
 
 A web application displaying the locations, dates, # killed and # injured in mass shootings across the United States in 2022
 
-![This is an image](pics/dashboard_pic.PNG)
+
+
+## Home Page
+![dashboard page](pics/dashboard_pic.PNG)
+
+## About Page
+![about page](pics/about_pic.PNG)
+
+## Learn More Page
+![learn more page](pics/learn_more_pic.PNG)
